@@ -1,6 +1,7 @@
 {
   "name": "coinswap-maker",
   "version": "1.0.0",
+  "author": "Veronika Dorson",
   "private": true,
   "type": "module",
   "scripts": {
